@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(0, 44, 203);
+}
+
+img {
+  width: 50%;
+  object-fit: cover;
+  margin-left: 25%;
+  margin-top: 2%;
+}
+
+p {
+  margin: 2% 10%;
+  text-align: justify;
+}
+
+ul {
+  list-style: none;
+  line-height: 25px;
+  margin: 2% 30% 5% 30%;
+  color: blueviolet;
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 3, 112);
+  font-size: 2rem;
+  margin-left: 28%;
+  padding-bottom: 5%;
+}
